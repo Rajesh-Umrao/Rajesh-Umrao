@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/umraorajesh" target="blank"><img src="https://img.shields.io/twitter/follow/umraorajesh?logo=twitter&style=for-the-badge" alt="umraorajesh" /></a> </p>
 
-- 👨‍💻 I’m currently working as **Data Analyst and Business Intelligence**
+- 👨‍💻 I’m currently working as **Data Analyst**
 - 🔭 I'm expanding my expertise in **Machine Learning**
 
 - 📫 How to reach me **rajeshumrao88@gmail.com**

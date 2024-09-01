@@ -8,12 +8,35 @@
 <p align="left"> <a href="https://www.linkedin.com/in/rajeshumrao/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Rajesh%20Umrao-blue?style=for-the-badge&logo=linkedin" alt="Rajesh Umrao LinkedIn" /> </a> </p>
 
 
-<p align="left">
-  <strong>👨‍💻 Currently:</strong> Working as a <b>Data Analyst</b><br>
-  <strong>🔭 Expanding:</strong> Expertise in <b>Machine Learning and Deep Learning</b><br>
-  <strong>📫 Reach Me:</strong> <a href="mailto:rajeshumrao88@gmail.com">rajeshumrao88@gmail.com</a><br>
-  <strong>📄 My Resume:</strong> <a href="https://bit.ly/3VDXjWD" target="_blank">View Here</a>
+<p align="left" style="font-family: Arial, sans-serif;">
+  <strong style="font-size: 1.2em;">👨‍💻 Currently:</strong> Working as a <b>Data Analyst</b><br>
+  <strong style="font-size: 1.2em;">🔭 Expanding:</strong> Expertise in <b>Machine Learning and Deep Learning</b><br>
+  
+  <span style="font-size: 1.2em; vertical-align: middle; display: inline-flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/b/b8/National_Institute_of_Technology%2C_Hamirpur_Logo.png" 
+         alt="NIT Hamirpur Logo" 
+         style="width:14px; vertical-align: middle; margin-right: 8px;"/>
+    <strong> Education:</strong>
+    <a href="https://nith.ac.in/" target="_blank" style="text-decoration: none; color: #007BFF; font-weight: bold; margin-left: 8px;">
+      NIT Hamirpur HP
+    </a>
+  </span>
+  <br>
+  <strong style="font-size: 1.2em;">📫 Reach Me:</strong> 
+  <a href="mailto:rajeshumrao88@gmail.com" style="color: #007BFF; text-decoration: none;">rajeshumrao88@gmail.com</a><br>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">💼 Connect with me:</h3>
 <a href="https://linkedin.com/in/rajeshumrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeshumrao" height="30" width="40" /></a>

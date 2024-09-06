@@ -33,7 +33,7 @@
 <a href="https://linkedin.com/in/rajeshumrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeshumrao" height="30" width="40" /></a>
 <a href="https://kaggle.com/rajeshumrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajeshumrao" height="30" width="40" /></a>
 <a href="https://twitter.com/umraorajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umraorajesh" height="30" width="40" /></a>
-<a href="https://medium.com/@rajeshumrao88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="umraorajesh" height="30" width="40" /></a>
+<a href="https://medium.com/@rajeshumrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="umraorajesh" height="30" width="40" /></a>
 </p>
 
 

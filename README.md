@@ -31,6 +31,7 @@
 
 <h3 align="left">💼 Connect with me:</h3>
 <a href="https://linkedin.com/in/rajeshumrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeshumrao" height="30" width="40" /></a>
+<a href="https://whatsapp.com/channel/0029VbBMAuOE50UewyMbGJ1o" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/662px-WhatsApp_icon.png" alt="rajeshumrao" height="30" width="40" /></a>
 <a href="https://kaggle.com/rajeshumrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajeshumrao" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Rajesh_Umrao/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="rajeshumrao" height="30" width="40" /></a>
 <a href="https://www.naukri.com/code360/profile/38e9e145-9cfa-475e-ab84-b234e3aeb43b" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="umraorajesh" height="30" width="40" /></a>

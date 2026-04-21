@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajesh Umrao</h1>
 <h3 align="center">Senior Analyst with Years of Expertise in Data Wrangling, Data Mining, Modeling & Visualization</h3>
 
-<img align="right" alt="DataAnalysis" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" >
+<img align="right" alt="DataAnalysis" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Ld_dYVyR-nUqOAhk1RjLNA.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-umrao&label=🌟%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="rajesh-umrao" /> </p>
 

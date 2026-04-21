@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" alt="DataAnalysis" width="380" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Ld_dYVyR-nUqOAhk1RjLNA.gif" >
+<img align="right" alt="DataAnalysis" width="370" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Ld_dYVyR-nUqOAhk1RjLNA.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-umrao&label=🌟%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="rajesh-umrao" /> </p>
 

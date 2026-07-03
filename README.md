@@ -52,8 +52,8 @@
 #### 🎯Goal 
 <p>Along with professional excellence, my goal is to build a valuable learning platforms for:</p>
 
-- **Data Analytics** (SQL, Python, Power BI, Microsoft Fabric)
-- **Data Engineering** (SQL, Pyspark, Azure)
+- **Data Analytics** (SQL,Python,Power BI,Microsoft Fabric)
+- **Data Engineering** (SQL,Pyspark,Azure)
 - **Artificial Intelligence**
 
 I believe that **learning should focus on understanding concepts, not memorizing syntax.**
@@ -65,13 +65,13 @@ I believe that **learning should focus on understanding concepts, not memorizing
 <td align="left">
   
 ## 🛠Tech Stacks (Technical Skills)
-- 📊**Data Analysis Tools:** Power BI, Tableau, Excel (Advanced) </br>
-- 📝**Programming Languages:** Python (Pandas, NumPy, Seaborn), SQ </br>
+- 📊**Data Analysis Tools:** Power BI,Tableau,Excel(Advanced) </br>
+- 📝**Programming Languages:** Python(Pandas,NumPy,Seaborn),SQL </br>
 - 📘**Databases:** SQL Server, PostgreSQL, MySQL </br>
-- 💻**ETL & Data Integration:** SSIS, SSAS, Power Query, Alteryx  </br>
-- 📥**Advanced Analytics:** Data Mining, Forecasting, Trend Analysis, Anomaly Detection  </br>
-- ☁**Power BI Service:** RLS, Deployment Pipelines, Data Gateways, Incremental Refresh  </br>
-- 📐**Data Governance:** Data Audits, Data Lineage, Change Management  </br>
+- 💻**ETL & Data Integration:** SSIS,SSAS,Power Query,Alteryx  </br>
+- 📥**Advanced Analytics:** Data Mining,Forecasting,Trend Analysis,Anomaly Detection  </br>
+- ☁**Power BI Service:** RLS,Deployment Pipelines,Data Gateways,Incremental Refresh  </br>
+- 📐**Data Governance:** Data Audits,Data Lineage,Change Management  </br>
 
 
 <p align="center">

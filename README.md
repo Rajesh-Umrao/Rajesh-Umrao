@@ -1,65 +1,246 @@
-<h1 align="center">Hi 👋, I'm Rajesh Umrao</h1>
+<div align="center">
+  
+  # 👋 Hi, I'm Rajesh Umrao
+</div>
 
-<!-- 🔥 Typing Animation -->
+<!-- -------------------1)Start: Contact List-------------------------------------------------------------->  
+<div align="center">
+<p>
+    <a href="https://www.youtube.com/@rajesh_data_ai">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube">
+    </a> 
+    <a href="rajeshumrao88@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-purple?style=for-the-badge&logo=Gmail">
+    </a>
+    <a href="https://linkedin.com/in/rajeshumrao">
+    <img src="https://img.shields.io/badge/LinkedIn-Rajesh%20Umrao-blue?style=for-the-badge&logo=linkedin">
+    </a>
+    <a href="https://github.com/Rajesh-Umrao">
+    <img src="https://img.shields.io/badge/GitHub-Follow-success?style=for-the-badge&logo=github">
+    </a>
+</p>
+</div>
+<!-- -------------------1)End: Contact List-------------------------------------------------------------->  
+
+<!-- -------------------2)Start: Professional Summary-------------------------------------------------------------->  
+<div align="left"> 
+
+## Professional Summary: Senior Data Analyst | Data & AI Educator
+
+</div>
+<div align="left"> 
+  Senior Analyst with 4+ years of experience optimizing data pipelines and delivering insights that improved business outcomes
+  by 30%. Specialized in Power BI, SQL, and Python, with expertise in data cleaning, ETL automation, and dashboard
+  storytelling. Developed impactful insights that enabled 15% cost savings and improved decision-making efficiency by 20%
+</div>
+
+
+<!-- -------------------2)End: Professional Summary-------------------------------------------------------------->
+
+---
+
+<!-- -------------------3)End: About me & Tech stack-------------------------------------------------------------->
+<table>
+<tr>
+
+<td width="45%">
+
+## 👨‍💻 About Me
+
+💼Currently working as a **Senior Data Analyst** </br>
+🎓Graduate from **NIT Hamirpur**</br>
+#### 🎯Goal 
+<p>Along with professional excellence, my goal is to build a valuable learning platforms for:</p>
+
+- **Data Analytics** (SQL, Python, Power BI, Microsoft Fabric)
+- **Data Engineering** (SQL, Pyspark, Azure)
+- **Artificial Intelligence**
+
+I believe that **learning should focus on understanding concepts, not memorizing syntax.**
+
+<!-- -------------------3)End: About-------------------------------------------------------------->
+</td>
+
+<!-- -------------------4)Start: Tech stack-------------------------------------------------------------->
+<td align="left">
+  
+## 🛠Tech Stacks (Technical Skills)
+- **Data Analysis Tools:** Power BI, Tableau, Excel (Advanced) </br>
+- **Programming Languages:** Python (Pandas, NumPy, Seaborn), SQ </br>
+- **Databases:** SQL Server, PostgreSQL, MySQL </br>
+- **ETL & Data Integration:** SSIS, SSAS, Power Query, Alteryx  </br>
+- **Advanced Analytics:** Data Mining, Forecasting, Trend Analysis, Anomaly Detection  </br>
+- **Power BI Service:** RLS, Deployment Pipelines, Data Gateways, Incremental Refresh  </br>
+- **Data Governance:** Data Audits, Data Lineage, Change Management  </br>
+
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Senior+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+AI;Machine+Learning+Enthusiast;Content+Creator+%7C+YouTuber" />
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,tensorflow,pytorch,sklearn" />
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<!-- -------------------4)End: end-------------------------------------------------------------->
+
+---
+
+# 📊 Community
+
+| Metric | Count |
+|---------|------:|
+| 🎥 YouTube Videos | Growing Every Week |
+| 📄 Medium Articles | **127+** |
+| 💻 GitHub Repositories | 100+ |
+| 📚 Learning Series | Multiple |
+| 🎯 Focus | Real Industry Learning |
+
+---
+
+# 🚀 Learning Hub
+
+Everything shared on my YouTube channel is organized here.
+
+Instead of adding dozens of links inside every YouTube description, you can quickly find:
+
+- 🎥 Video Links
+- 📄 Medium Articles
+- 💻 GitHub Repositories
+- 📊 Practice Datasets
+- 📝 Notes
+- 📥 Download Files
+- 🔗 External References
+
+---
+
+# 📚 Learning Playlists
+
+| 📂 Playlist | Description |
+|-------------|-------------|
+| SQL Complete Course | Beginner to Advanced SQL |
+| SQL Interview Questions | Interview Preparation |
+| Python | Python for Data Analytics |
+| Power BI | Dashboard Development |
+| Microsoft Fabric | End-to-End Fabric Learning |
+| Azure Data Factory | Data Engineering |
+| Artificial Intelligence | AI Tools & Concepts |
+| Machine Learning | ML Fundamentals |
+
+---
+
+# 🛠 Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,tensorflow,pytorch,sklearn" />
+
 </p>
 
 ---
 
-<img align="right" alt="DataAnalysis" width="370" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Ld_dYVyR-nUqOAhk1RjLNA.gif" >
+# 📂 Resources
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-umrao&label=🌟%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="rajesh-umrao" /> </p>
+Each playlist contains one or more of the following resources.
 
-## 👨‍💻 About Me
-<p align="left" style="font-family: Arial, sans-serif;">
-  <strong style="font-size: 1.2em;">💼 Currently working as Senior Analyst</b><br>
-  <strong style="font-size: 1.2em;">🤖 Exploring Machine Learning & Deep Learning</b><br>
-  <strong style="font-size: 1.2em;">🎓 Graduate from NIT Hamirpur</b><br>
-   <strong style="font-size: 1.2em;">🎯 Goal: Become Top 1% Data Content Creator</b><br>
-
-
+| Resource | Available |
+|----------|-----------|
+| 🎥 YouTube Video | ✅ |
+| 📄 Medium Article | ✅ |
+| 💻 GitHub Repository | ✅ |
+| 📊 Dataset | ✅ |
+| 📥 Download Files | ✅ |
+| 📝 Notes | ✅ |
+| 📚 Practice Questions | ✅ |
+| 🔗 External Links | ✅ |
 
 ---
 
-## 🌐 Connect with Me
+# ⭐ Featured Learning Paths
 
-<p align="left">
-<a href="https://linkedin.com/in/rajeshumrao" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-Rajesh%20Umrao-blue?style=for-the-badge&logo=linkedin" />
+## 📘 SQL
+
+- SQL Fundamentals
+- SQL Joins
+- Window Functions
+- CTEs
+- Stored Procedures
+- Performance Optimization
+
+---
+
+## 🐍 Python
+
+- Python Basics
+- NumPy
+- Pandas
+- Automation
+- Data Cleaning
+
+---
+
+## 📊 Power BI
+
+- Data Modeling
+- DAX
+- Dashboards
+- Visualization
+
+---
+
+## ☁ Microsoft Fabric
+
+- Lakehouse
+- Warehouse
+- Pipelines
+- Data Factory
+- Notebooks
+
+---
+
+## 🤖 Artificial Intelligence
+
+- Prompt Engineering
+- LLMs
+- AI Tools
+- Machine Learning
+- Deep Learning
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.youtube.com/@rajesh_data_ai">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube">
 </a>
 
-<a href="https://medium.com/@rajeshumrao" target="blank">
-<img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium" />
+<a href="https://medium.com/@rajeshumrao">
+<img src="https://img.shields.io/badge/Medium-Read%20Articles-black?style=for-the-badge&logo=medium">
 </a>
 
-<a href="https://twitter.com/umraorajesh" target="blank">
-<img src="https://img.shields.io/badge/Twitter-@umraorajesh-blue?style=for-the-badge&logo=twitter" />
+<a href="https://linkedin.com/in/rajeshumrao">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:rajeshumrao88@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
+
 </p>
 
 ---
 
-## 🧠 Tech Stack
+<div align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,tensorflow,pytorch,sklearn" />
-</p>
+## ⭐ If these resources help you, consider giving this repository a Star!
 
----
+### Happy Learning 🚀
 
+Made with ❤️ by **Rajesh Umrao**
 
-## 📊 GitHub Stats
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rajesh-umrao&show_icons=true&theme=radical" />
-</p>
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-umrao&layout=compact&theme=radical" />
-</p>
-
+</div>

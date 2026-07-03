@@ -113,7 +113,7 @@ Everything shared on my YouTube channel is organized here.
 
 <!-- -------------------6)Start: Community-------------------------------------------------------------->
 
-# 📊 Community
+# 🌐 Community: Connect With Me 
 
 | Metric | Count |
 |---------|------:|
@@ -124,32 +124,6 @@ Everything shared on my YouTube channel is organized here.
 | 🎯 Focus | Real Industry Learning |
 
 <!-- -------------------6)Send: Community-------------------------------------------------------------->
-
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.youtube.com/@rajesh_data_ai">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube">
-</a>
-
-<a href="https://medium.com/@rajeshumrao">
-<img src="https://img.shields.io/badge/Medium-Read%20Articles-black?style=for-the-badge&logo=medium">
-</a>
-
-<a href="https://linkedin.com/in/rajeshumrao">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:rajeshumrao88@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
-
 ---
 
 <div align="center">

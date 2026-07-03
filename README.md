@@ -65,13 +65,13 @@ I believe that **learning should focus on understanding concepts, not memorizing
 <td align="left">
   
 ## 🛠Tech Stacks (Technical Skills)
-- **Data Analysis Tools:** Power BI, Tableau, Excel (Advanced) </br>
-- **Programming Languages:** Python (Pandas, NumPy, Seaborn), SQ </br>
-- **Databases:** SQL Server, PostgreSQL, MySQL </br>
-- **ETL & Data Integration:** SSIS, SSAS, Power Query, Alteryx  </br>
-- **Advanced Analytics:** Data Mining, Forecasting, Trend Analysis, Anomaly Detection  </br>
-- **Power BI Service:** RLS, Deployment Pipelines, Data Gateways, Incremental Refresh  </br>
-- **Data Governance:** Data Audits, Data Lineage, Change Management  </br>
+- 📊**Data Analysis Tools:** Power BI, Tableau, Excel (Advanced) </br>
+- 📝**Programming Languages:** Python (Pandas, NumPy, Seaborn), SQ </br>
+- 📘**Databases:** SQL Server, PostgreSQL, MySQL </br>
+- 💻**ETL & Data Integration:** SSIS, SSAS, Power Query, Alteryx  </br>
+- 📥**Advanced Analytics:** Data Mining, Forecasting, Trend Analysis, Anomaly Detection  </br>
+- ☁**Power BI Service:** RLS, Deployment Pipelines, Data Gateways, Incremental Refresh  </br>
+- 📐**Data Governance:** Data Audits, Data Lineage, Change Management  </br>
 
 
 <p align="center">
@@ -87,37 +87,13 @@ I believe that **learning should focus on understanding concepts, not memorizing
 
 <!-- -------------------4)End: end-------------------------------------------------------------->
 
----
-
-# 📊 Community
-
-| Metric | Count |
-|---------|------:|
-| 🎥 YouTube Videos | Growing Every Week |
-| 📄 Medium Articles | **127+** |
-| 💻 GitHub Repositories | 100+ |
-| 📚 Learning Series | Multiple |
-| 🎯 Focus | Real Industry Learning |
 
 ---
 
-# 🚀 Learning Hub
+<!-- -------------------5)Start: Learning Resources-------------------------------------------------------------->
 
+# 📚 Learning Resources
 Everything shared on my YouTube channel is organized here.
-
-Instead of adding dozens of links inside every YouTube description, you can quickly find:
-
-- 🎥 Video Links
-- 📄 Medium Articles
-- 💻 GitHub Repositories
-- 📊 Practice Datasets
-- 📝 Notes
-- 📥 Download Files
-- 🔗 External References
-
----
-
-# 📚 Learning Playlists
 
 | 📂 Playlist | Description |
 |-------------|-------------|
@@ -130,84 +106,25 @@ Instead of adding dozens of links inside every YouTube description, you can quic
 | Artificial Intelligence | AI Tools & Concepts |
 | Machine Learning | ML Fundamentals |
 
----
 
-# 🛠 Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,tensorflow,pytorch,sklearn" />
-
-</p>
+<!-- -------------------5)End: Learning Resources-------------------------------------------------------------->
 
 ---
 
-# 📂 Resources
+<!-- -------------------6)Start: Community-------------------------------------------------------------->
 
-Each playlist contains one or more of the following resources.
+# 📊 Community
 
-| Resource | Available |
-|----------|-----------|
-| 🎥 YouTube Video | ✅ |
-| 📄 Medium Article | ✅ |
-| 💻 GitHub Repository | ✅ |
-| 📊 Dataset | ✅ |
-| 📥 Download Files | ✅ |
-| 📝 Notes | ✅ |
-| 📚 Practice Questions | ✅ |
-| 🔗 External Links | ✅ |
+| Metric | Count |
+|---------|------:|
+| 🎥 YouTube Videos | Growing Every Week |
+| 📄 Medium Articles | **127+** |
+| 💻 GitHub Repositories | 100+ |
+| 📚 Learning Series | Multiple |
+| 🎯 Focus | Real Industry Learning |
 
----
+<!-- -------------------6)Send: Community-------------------------------------------------------------->
 
-# ⭐ Featured Learning Paths
-
-## 📘 SQL
-
-- SQL Fundamentals
-- SQL Joins
-- Window Functions
-- CTEs
-- Stored Procedures
-- Performance Optimization
-
----
-
-## 🐍 Python
-
-- Python Basics
-- NumPy
-- Pandas
-- Automation
-- Data Cleaning
-
----
-
-## 📊 Power BI
-
-- Data Modeling
-- DAX
-- Dashboards
-- Visualization
-
----
-
-## ☁ Microsoft Fabric
-
-- Lakehouse
-- Warehouse
-- Pipelines
-- Data Factory
-- Notebooks
-
----
-
-## 🤖 Artificial Intelligence
-
-- Prompt Engineering
-- LLMs
-- AI Tools
-- Machine Learning
-- Deep Learning
 
 ---
 

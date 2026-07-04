@@ -96,18 +96,17 @@ I believe that **learning should focus on understanding concepts, not memorizing
 
 <!-- -------------------5)Start: Learning Resources-------------------------------------------------------------->
 
-# 📚 Learning Resources
+# 📚 Portfolios Projects & LearnugResources
 Everything shared on my YouTube channel is organized here.
 
-| 📂 Playlist | Description |
-|-------------|-------------|
-| SQL Complete Course | Beginner to Advanced SQL |
-| SQL Interview Questions | Interview Preparation |
-| Python | Python for Data Analytics |
-| Power BI | Dashboard Development |
-| Microsoft Fabric | End-to-End Fabric Learning |
-| Azure Data Factory | Data Engineering |
-| Artificial Intelligence | AI Tools & Concepts |
+| 📂 Playlist | Description | Link
+|-------------|-------------|------------------------|
+| HackerRank SQL Series | Beginner to Advanced SQL |
+| Topicwise HackerRank SQL Series | Subdomain wise Question Covered |
+| Leetcode SQL-50 Series | Beginner to Advance Level |
+| Topicwise Leetcode SQL50 Series | All Question covered in Topicwise manner |
+| Power BI Project Repo | End-to-End Power BI Portfolio Projects |
+| Python Projects | End-to-End Industry Level Python Projects  |
 | Machine Learning | ML Fundamentals |
 
 
@@ -119,13 +118,13 @@ Everything shared on my YouTube channel is organized here.
 
 # 🌐 Community: Connect With Me 
 
-| Metric | Count |
+| Platform | Count |
 |---------|------:|
-| 🎥 YouTube Videos | Growing Every Week |
-| 📄 Medium Articles | **127+** |
-| 💻 GitHub Repositories | 100+ |
-| 📚 Learning Series | Multiple |
-| 🎯 Focus | Real Industry Learning |
+| 🎥 Whatapps | <a href="https://whatsapp.com/channel/0029VbBMAuOE50UewyMbGJ1o"><img src="https://img.shields.io/badge/Whatsapp-Join-teal?style=for-the-badge&logo=Whatsapp"></a> |
+| 🌐 Telegram |<a href="https://t.me/rajesh_data_ai"><img src="https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=Telegram"></a> |
+| 💻 GitHub Repositories | <a href="https://github.com/Rajesh-Umrao"><img src="https://img.shields.io/badge/GitHub-Follow-purple?style=for-the-badge&logo=GitHub"> </a>|
+| 📚 Instagram | <a href="https://www.instagram.com/rajesh_data_ai/"><img src="https://img.shields.io/badge/Insta-Follow-purple?style=for-the-badge&logo=Instagram"> </a>|
+| 🎯 Medium | <a href="https://medium.com/@rajesh_data_ai"><img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=Medium"> </a>|
 
 <!-- -------------------6)Send: Community-------------------------------------------------------------->
 ---

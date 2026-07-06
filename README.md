@@ -30,7 +30,7 @@
 </div>
 <div align="left"> 
   Senior Analyst with 4+ years of experience optimizing data pipelines and delivering insights that improved business outcomes
-  by 30%. Specialized in Power BI, SQL, and Python, with expertise in data cleaning, ETL automation, and dashboard
+  by 30%. Specialized in SQL, Power BI, and Python, with expertise in data cleaning, ETL automation, and dashboard
   storytelling. Developed impactful insights that enabled 15% cost savings and improved decision-making efficiency by 20%
 </div>
 
@@ -118,13 +118,39 @@ Everything shared on my YouTube channel is organized here.
 
 # 🌐 Community: Connect With Me 
 
-| Platform | Count |
-|---------|------:|
-| 🎥 Whatapps | <a href="https://whatsapp.com/channel/0029VbBMAuOE50UewyMbGJ1o"><img src="https://img.shields.io/badge/Whatsapp-Join-teal?style=for-the-badge&logo=Whatsapp"></a> |
-| 🌐 Telegram |<a href="https://t.me/rajesh_data_ai"><img src="https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=Telegram"></a> |
-| 💻 GitHub Repositories | <a href="https://github.com/Rajesh-Umrao"><img src="https://img.shields.io/badge/GitHub-Follow-purple?style=for-the-badge&logo=GitHub"> </a>|
-| 📚 Instagram | <a href="https://www.instagram.com/rajesh_data_ai/"><img src="https://img.shields.io/badge/Insta-Follow-purple?style=for-the-badge&logo=Instagram"> </a>|
-| 🎯 Medium | <a href="https://medium.com/@rajesh_data_ai"><img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=Medium"> </a>|
+<table>
+<tr>
+<th align="left">Platform</th>
+<th align="left">Link</th>
+</tr>
+
+<tr>
+<td>🎥 WhatsApp</td>
+<td><a href="https://whatsapp.com/channel/0029VbBMAuOE50UewyMbGJ1o"><img src="https://img.shields.io/badge/WhatsApp-Join-teal?style=for-the-badge&logo=whatsapp"></a></td>
+</tr>
+
+<tr>
+<td>🌐 Telegram</td>
+<td><a href="https://t.me/rajesh_data_ai"><img src="https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram"></a></td>
+</tr>
+
+<tr>
+<td>💻 GitHub Repositories</td>
+<td><a href="https://github.com/Rajesh-Umrao"><img src="https://img.shields.io/badge/GitHub-Follow-purple?style=for-the-badge&logo=github"></a></td>
+</tr>
+
+<tr>
+<td>📚 Instagram</td>
+<td><a href="https://www.instagram.com/rajesh_data_ai/"><img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram"></a></td>
+</tr>
+
+<tr>
+<td>🎯 Medium</td>
+<td><a href="https://medium.com/@rajesh_data_ai"><img src="https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium"></a></td>
+</tr>
+</table>
+
+
 
 <!-- -------------------6)Send: Community-------------------------------------------------------------->
 ---

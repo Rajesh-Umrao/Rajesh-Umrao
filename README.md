@@ -152,15 +152,6 @@ Everything shared on my YouTube channel is organized here.
 
 
 
-<!-- -------------------6)Send: Community-------------------------------------------------------------->
+<!-- -------------------6)end: Community-------------------------------------------------------------->
 ---
 
-<div align="center">
-
-## ⭐ If these resources help you, consider giving this repository a Star!
-
-### Happy Learning 🚀
-
-Made with ❤️ by **Rajesh Umrao**
-
-</div>

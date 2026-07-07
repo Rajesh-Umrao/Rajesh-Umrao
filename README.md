@@ -1,7 +1,21 @@
 <div align="center">
-  
-  # 👋 Hi, I'm Rajesh Umrao
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=195&color=0:00A8E8,30:0096C7,70:0077B6,100:023E8A&text=Rajesh%20Umrao&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Analyst%20%7C%20NIT%20Hamirpur%20Alumnus&descAlignY=60&descSize=18"/>
 </div>
+
+<!-- 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rajesh-Umrao&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Rajesh-Umrao?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Rajesh-Umrao?style=for-the-badge"/>
+</p>
+
+--->
+
+
+
+
+
+
 
 <!-- -------------------1)Start: Contact List-------------------------------------------------------------->  
 <div align="center">

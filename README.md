@@ -125,7 +125,12 @@ Everything shared on my YouTube channel is organized here.
 </tr>
 
 <tr>
-<td>🎥 WhatsApp</td>
+<td>🎥 YouTube</td>
+<td><a href="https://www.youtube.com/@rajesh_data_ai"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=YouTube"></a></td>
+</tr>
+
+<tr>
+<td>💻 WhatsApp</td>
 <td><a href="https://whatsapp.com/channel/0029VbBMAuOE50UewyMbGJ1o"><img src="https://img.shields.io/badge/WhatsApp-Join-teal?style=for-the-badge&logo=whatsapp"></a></td>
 </tr>
 
@@ -141,7 +146,7 @@ Everything shared on my YouTube channel is organized here.
 
 <tr>
 <td>💻 Instagram</td>
-<td><a href="https://www.instagram.com/rajesh_data_ai/"><img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram"></a></td>
+<td><a href="https://www.instagram.com/rajesh_data_ai/"><img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram"></a></td>
 </tr>
 
 <tr>

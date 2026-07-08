@@ -113,16 +113,15 @@ I believe that **learning should focus on understanding concepts, not memorizing
 # 📚 Portfolios Projects & LearnugResources
 Everything shared on my YouTube channel is organized here.
 
-| 📂 Playlist | Description | Link
-|-------------|-------------|------------------------|
-| HackerRank SQL Series | Beginner to Advanced SQL |
-| Topicwise HackerRank SQL Series | Subdomain wise Question Covered |
-| Leetcode SQL-50 Series | Beginner to Advance Level |
-| Topicwise Leetcode SQL50 Series | All Question covered in Topicwise manner |
-| Power BI Project Repo | End-to-End Power BI Portfolio Projects |
-| Python Projects | End-to-End Industry Level Python Projects  |
-| Machine Learning | ML Fundamentals |
-
+| 📂 Playlist | 📝 Description | 📺 YouTube | 💻 GitHub |
+|:------------|:---------------|:----------:|:---------:|
+| HackerRank SQL Series | Beginner to Advanced SQL | [▶️ Watch](https://www.youtube.com/watch?v=Ajjtm2VjvJY&list=PLPmUkF2W9AUC7dW3rzQPQYDRhHis8os8x&index=1) | [📂 Open](https://github.com/Rajesh-Umrao/HackerRank_SQL_Series#hackerrank-sql-series-overview) |
+| Topicwise HackerRank SQL Series | SQL questions organized by topic | [▶️ Watch](https://www.youtube.com/watch?v=Ov4y5_Fawes&list=PLPmUkF2W9AUBSoLqNb3Rv5Xob8mAnNACd&index=1) | [📂 Open](https://github.com/Rajesh-Umrao/HackerRank_SQL_Series#hackerrank-sql-series-overview) |
+| LeetCode SQL-50 Series | Beginner to Advanced SQL-50 Solutions | [▶️ Watch](https://www.youtube.com/watch?v=9OpJLurDJ_4&list=PLPmUkF2W9AUAXELnqUdLtNv43GkP-htWf&index=1) | [📂 Open](https://github.com/Rajesh-Umrao/LeetCode_SQL50) |
+| Topicwise LeetCode SQL-50 Series | SQL-50 questions organized by topic | [▶️ Watch](https://www.youtube.com/watch?v=Ztktk4KkMkM&list=PLa4ZuoFRj8sU&index=1) | [📂 Open](https://github.com/Rajesh-Umrao/Topicwise_LeetCode_SQL50) |
+| Power BI Project Repository | End-to-End Power BI Portfolio Projects | | [📂 Open](https://github.com/Rajesh-Umrao/PowerBI_Projects) |
+| Python Projects | End-to-End Industry-Level Python Projects | | [📂 Open](https://github.com/Rajesh-Umrao/Python_Project) |
+| Machine Learning | ML Fundamentals with Practical Projects | | [📂 Open](https://github.com/Rajesh-Umrao/Machine_Learning_ML) |
 
 <!-- -------------------5)End: Learning Resources-------------------------------------------------------------->
 

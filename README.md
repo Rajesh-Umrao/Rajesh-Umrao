@@ -39,7 +39,7 @@
 <!-- -------------------2)Start: Professional Summary-------------------------------------------------------------->  
 <div align="left"> 
 
-## Professional Summary: Senior Data Analyst | Data & AI Educator
+## Professional Summary: Senior Data Analyst
 
 </div>
 <div align="left"> 

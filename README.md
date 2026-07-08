@@ -138,7 +138,7 @@ Everything shared on my YouTube channel is organized here.
 </tr>
 
 <tr>
-<td>🎥 YouTube</td>
+<td>📺 YouTube</td>
 <td><a href="https://www.youtube.com/@rajesh_data_ai"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=YouTube"></a></td>
 </tr>
 

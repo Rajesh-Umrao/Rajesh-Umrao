@@ -153,11 +153,6 @@ Everything shared on my YouTube channel is organized here.
 </tr>
 
 <tr>
-<td>📚 GitHub Repositories</td>
-<td><a href="https://github.com/Rajesh-Umrao"><img src="https://img.shields.io/badge/GitHub-Follow-purple?style=for-the-badge&logo=github"></a></td>
-</tr>
-
-<tr>
 <td>💻 Instagram</td>
 <td><a href="https://www.instagram.com/rajesh_data_ai/"><img src="https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram"></a></td>
 </tr>

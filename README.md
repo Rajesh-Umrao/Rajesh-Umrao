@@ -43,7 +43,7 @@
 
 </div>
 <div align="left"> 
-  Senior Analyst with 4+ years of experience optimizing data pipelines and delivering insights that improved business outcomes
+  Senior Analyst with years of experience optimizing data pipelines and delivering insights that improved business outcomes
   by 30%. Specialized in SQL, Power BI, and Python, with expertise in data cleaning, ETL automation, and dashboard
   storytelling. Developed impactful insights that enabled 15% cost savings and improved decision-making efficiency by 20%
 </div>
